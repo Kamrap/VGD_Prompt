@@ -1,4 +1,5 @@
 // This is my journal for April 28.
+// Module 6, Lessons 1-3
 // Today I learnt how to create a simple calculator that shows the total score and average over 5 assignments of 4 different students.
 
 // code:
