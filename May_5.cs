@@ -1,6 +1,6 @@
 // This is my journal for May 5.
 // I learnt how to format the results that are shown in the console after you run the code.
-
+// Microsoft Learn Module 6 - Unit 5+
 // code:
 int currentAssignments = 5;
 
